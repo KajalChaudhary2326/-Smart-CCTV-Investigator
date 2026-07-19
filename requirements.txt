@@ -1,0 +1,15 @@
+ultralytics>=8.1.0
+lap>=0.5.12
+opencv-python>=4.9.0
+reportlab>=4.0.0
+pillow>=10.0.0
+numpy
+easyocr>=1.7.0
+
+# Needed only for Face Search / Duplicate Face Removal (optional features).
+# If these fail to install or fail to load, the app still runs fine -
+# Face Search / Duplicate Removal are simply skipped with a log message;
+# tracking, ANPR, basic face detection, and reports are unaffected.
+insightface>=0.7.3
+onnxruntime>=1.16.0
+
