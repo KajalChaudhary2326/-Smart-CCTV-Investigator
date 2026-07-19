@@ -1,6 +1,10 @@
 # Smart CCTV Investigator
 ### Object Detection & Tracking tool for Investigation / Cyber Cell use
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Setup.exe-blue?style=for-the-badge)](https://github.com/KajalChaudhary2326/-Smart-CCTV-Investigator/releases/latest)
+
+**👉 [Click here to download the installer](https://github.com/KajalChaudhary2326/-Smart-CCTV-Investigator/releases/latest)** — no coding or Python needed, just download `Setup.exe` and run it.
+
 > 📄 **New here? See `USER_MANUAL.pdf`** for a simple, non-technical quick-start
 > guide — installation, step-by-step usage, and FAQs. This README below is the
 > **developer/build** guide (for whoever builds and packages the app).
